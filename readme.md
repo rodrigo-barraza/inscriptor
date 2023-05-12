@@ -1,5 +1,5 @@
-## Inscriptor
-Image captioning for data set annotation. An implementation of diffusers utilizing Blip2's new **zero-shot instructed vision-to-language generation**. Runs on the `blip2-opt-6.7b-coco` model.
+## Inscriptor ✍️
+An easy-to-use image captioning for data set annotation. Need to caption your images? **Inscriptor has you.** This is an implementation of diffusers utilizing Blip2's new **zero-shot instructed vision-to-language generation**. Runs best on the `blip2-opt-6.7b-coco` model, but you can change it to any of the other models in the `blip2` family that are lower or higher requirements.
 
 ### Recommended Requirements
 24GB VRAM and 48GB RAM
